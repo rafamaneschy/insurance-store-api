@@ -1,1 +1,0 @@
-# insurance-store-api
